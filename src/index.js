@@ -1,2 +1,2 @@
-import { hello } from "./hello";
-hello("eslint-webpack");
+import { hello } from './hello';
+hello('eslint-webpack');
